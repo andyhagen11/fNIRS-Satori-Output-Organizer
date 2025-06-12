@@ -1,8 +1,8 @@
-%% fNIRS Data Organizer for Satori Output
+%% fNIRS Data Organizer for Satori Multi-study GLM Output
 % Originating Author: Andrew Hagen
-% Last Revised: 5/9/2024
+% Last Revised: 6/12/2025
 
-% This script imports the raw Satori GLM output xlsx and organizes the Oxy Results sheet to have only beta weights, with conditions and participants labeled across each row, and channels across each column
+% This script imports the raw Satori multi-study GLM output xlsx and organizes the Oxy Results sheet to have only beta weights, with conditions and participants labeled across each row, and channels across each column
 
 % Prompts 
     % 1. Select raw (unedited) Satori GLM output file
